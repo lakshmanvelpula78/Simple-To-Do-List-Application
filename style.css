@@ -1,0 +1,20 @@
+body{
+  background:#f4f7fc;
+}
+
+.card{
+  border-radius:15px;
+}
+
+.task-card{
+  background:white;
+  padding:15px;
+  border-radius:10px;
+  margin-bottom:15px;
+  box-shadow:0 0 10px rgba(0,0,0,0.1);
+}
+
+.completed{
+  text-decoration: line-through;
+  color: gray;
+}
